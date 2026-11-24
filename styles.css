@@ -1,8 +1,8 @@
 /* Preview demo styles. System fonts only. No decorative motion. */
 :root{
-  --primary:#1c1917;
-  --accent:#7c2d12;
-  --bg:#f5f2eb;
+  --primary:#264190;
+  --accent:#264190;
+  --bg:#f4f6f9;
   --ink:#1c1917;
   --muted:#57534e;
   --paper:#fff;
